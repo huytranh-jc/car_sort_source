@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1497261852, guid: ebe353a9e51fc6708625f16edcb81e06, type: 3}
+  m_Name: Car_ADS_Atlas
+  m_EditorClassIdentifier:
+  textureLoadingMode: 0
+  onDemandTextureLoader: {fileID: 0}
+  atlasFile: {fileID: 4900000, guid: 28675060d1879fc488150f15586d8f6d, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 6b2f1c76f444d2341bb622e0b0326b40, type: 2}

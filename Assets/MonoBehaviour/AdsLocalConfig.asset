@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e83fc0020d2401e9e85f12599ff4d0c, type: 3}
+  m_Name: AdsLocalConfig
+  m_EditorClassIdentifier:
+  bannerAds:
+    active: 0
+    position: 0
+    ads: []
+  interstitialAds:
+    active: 1
+    ads:
+    - minActivationLevel: 16
+      delayBeforeFirstPlacementInLifeTime: 86400
+      placementType: 2
+      levelFrequency: 1
+      delayBetweenPlacements: 60
+      delayBeforePlacementInLevel: 0
+      delayBeforeFirstPlacementInSession: 60
+  rewardedAds:
+    active: 1
+    rewardedAdToGetExtraCoins:
+      minActivationLevel: 16
+      delayBeforeFirstPlacementInLifeTime: 0
+      limitInSession: -1
+      limitInDay: -1
+      limitInLevel: -1
+      rewardAmount: 2
+    rewardedAdToGetExtraLives:
+      minActivationLevel: 0
+      delayBeforeFirstPlacementInLifeTime: 0
+      limitInSession: -1
+      limitInDay: -1
+      limitInLevel: -1
+      rewardAmount: 1

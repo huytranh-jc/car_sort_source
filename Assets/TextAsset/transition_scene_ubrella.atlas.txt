@@ -1,0 +1,26 @@
+transition_scene_ubrella.png
+	size: 1524, 1524
+	filter: Linear, Linear
+	pma: true
+	scale: 0.38
+umb8_shdw
+	bounds: 425, 1099, 431, 420
+umb_1
+	bounds: 2, 224, 418, 428
+umb_10
+	bounds: 425, 712, 394, 385
+umb_12
+	bounds: 858, 754, 391, 379
+umb_2
+	bounds: 2, 654, 421, 431
+umb_3
+	bounds: 2, 1087, 421, 432
+umb_5
+	bounds: 821, 376, 376, 385
+	rotate: 90
+umb_6
+	bounds: 858, 1135, 393, 384
+umb_7
+	bounds: 819, 2, 380, 372
+umb_9
+	bounds: 425, 329, 392, 381

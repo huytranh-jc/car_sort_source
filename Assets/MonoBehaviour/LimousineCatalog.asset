@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a78473c9231ccd38910f5fac47fb414c, type: 3}
+  m_Name: LimousineCatalog
+  m_EditorClassIdentifier:
+  type: 1
+  infos:
+  - {fileID: 11400000, guid: cff36904809013346b4eb4037510bc85, type: 2}
+  initializer: {fileID: 11400000, guid: 760e6f7b00efb104381ade1b233a59ec, type: 2}

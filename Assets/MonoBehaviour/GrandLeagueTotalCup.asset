@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559382d164e96b98a368672d8ba9654c, type: 3}
+  m_Name: GrandLeagueTotalCup
+  m_EditorClassIdentifier:
+  statName: GrandLeagueTotalCup
+  icon: {fileID: 21300000, guid: 0057dc8f1110ea7478b8ae0f1030826c, type: 2}
+  title: Total Cup
+  showImmediately: 1
+  showMinLevel: 0

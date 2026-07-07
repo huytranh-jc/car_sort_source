@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d2dca3f76b171b2c5fab9fec0d09208, type: 3}
+  m_Name: SurpriseUnitStateInitializer
+  m_EditorClassIdentifier:
+  type: 0
+  infos:
+  - {fileID: 11400000, guid: fae15c4b9e6d6c0409bd8b966f4ab66e, type: 2}

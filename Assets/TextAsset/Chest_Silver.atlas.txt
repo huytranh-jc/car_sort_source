@@ -1,0 +1,24 @@
+Chest_Silver.png
+	size: 716, 716
+	filter: Linear, Linear
+	pma: true
+ChestLight
+	bounds: 321, 316, 333, 113
+	offsets: 5, 3, 342, 124
+JS
+	bounds: 579, 80, 56, 234
+Key_Glow
+	bounds: 656, 352, 53, 77
+NoseMat256
+	bounds: 321, 58, 256, 256
+Yellow_Chest_Body
+	bounds: 347, 562, 343, 149
+Yellow_Chest_Cover_Close
+	bounds: 2, 483, 343, 228
+	offsets: 0, 1, 343, 229
+Yellow_Chest_Cover_Mid
+	bounds: 2, 248, 317, 233
+Yellow_Chest_Cover_Open
+	bounds: 2, 2, 282, 244
+Yellow_Chest_Shadow
+	bounds: 347, 431, 334, 129

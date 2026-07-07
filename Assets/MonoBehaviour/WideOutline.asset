@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1814908693, guid: 34b1cf0ff6550d78f9c1dd5603d48d82, type: 3}
+  m_Name: WideOutline
+  m_EditorClassIdentifier:
+  m_Active: 1
+  settings: {fileID: 11400000, guid: dae1e7220e9bc644aa6fce484178f2ae, type: 2}
+  shaders:
+    mask: {fileID: 4800000, guid: b2659ed70c57a3945b750c57241758f7, type: 3}
+    silhouette: {fileID: 4800000, guid: af08c2c3db4ac3b4084e74ecaf503ee6, type: 3}
+    silhouetteInstanced: {fileID: 4800000, guid: 6cb08f7ec058db148bafea9fff918b65, type: 3}
+    outline: {fileID: 4800000, guid: be42fd8996cc296449dbd0e84ddaecb4, type: 3}

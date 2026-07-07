@@ -1,0 +1,18 @@
+Car_ADS.png
+	size: 684, 684
+	filter: Linear, Linear
+	pma: true
+LightNose
+	bounds: 552, 316, 128, 128
+object-01
+	bounds: 1, 83, 359, 597
+object-02
+	bounds: 362, 446, 249, 234
+object-02-lamp-01
+	bounds: 1, 10, 67, 71
+object-02-lamp-02
+	bounds: 613, 611, 64, 69
+object-03
+	bounds: 362, 223, 188, 221
+object-04
+	bounds: 362, 34, 207, 187

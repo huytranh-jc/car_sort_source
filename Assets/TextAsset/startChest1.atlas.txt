@@ -1,0 +1,30 @@
+startChest1.png
+	size: 704, 704
+	filter: Linear, Linear
+	pma: true
+ChestLight
+	bounds: 358, 75, 333, 113
+	offsets: 5, 3, 342, 124
+JS
+	bounds: 2, 30, 56, 234
+	rotate: 90
+Key_Glow
+	bounds: 238, 33, 53, 77
+	rotate: 90
+NoseMat256
+	bounds: 358, 190, 256, 256
+StarGlow
+	bounds: 616, 287, 81, 82
+Yellow_Chest_Body
+	bounds: 2, 88, 354, 154
+	offsets: 11, 0, 401, 394
+Yellow_Chest_Cover_Close
+	bounds: 2, 478, 356, 224
+	offsets: 0, 0, 366, 224
+Yellow_Chest_Cover_Mid
+	bounds: 2, 244, 348, 232
+Yellow_Chest_Cover_Open
+	bounds: 360, 448, 275, 254
+Yellow_Chest_Shadow
+	bounds: 637, 371, 331, 65
+	rotate: 90

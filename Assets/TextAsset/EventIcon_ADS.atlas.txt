@@ -1,0 +1,15 @@
+EventIcon_ADS.png
+	size: 660, 660
+	filter: Linear, Linear
+	pma: true
+G_Base
+	bounds: 1, 100, 510, 559
+Shine
+	bounds: 513, 407, 111, 252
+	offsets: 6, 11, 125, 271
+noads-a (2)
+	bounds: 513, 271, 133, 134
+noads-d (2)
+	bounds: 513, 136, 119, 133
+noads-s (2)
+	bounds: 513, 1, 105, 133

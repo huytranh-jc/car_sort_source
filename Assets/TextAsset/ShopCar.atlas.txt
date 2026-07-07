@@ -1,0 +1,46 @@
+ShopCar.png
+	size: 1272, 1272
+	filter: Linear, Linear
+	pma: true
+	scale: 0.6
+Car
+	bounds: 238, 103, 437, 390
+	rotate: 90
+CarShine
+	bounds: 1, 8, 86, 74
+	offsets: 0, 4, 100, 80
+	rotate: 90
+Car_Blur
+	bounds: 900, 416, 49, 70
+Car_Shadow
+	bounds: 1, 96, 444, 235
+	offsets: 4, 6, 448, 241
+	rotate: 90
+Circle_0
+	bounds: 831, 9, 404, 404
+GasolineHose
+	bounds: 581, 548, 338, 233
+	offsets: 47, 35, 400, 309
+GasolinePump
+	bounds: 77, 20, 181, 74
+GasolineTank
+	bounds: 921, 488, 304, 324
+	rotate: 90
+Glass
+	bounds: 1237, 456, 30, 31
+	rotate: 90
+Plant
+	bounds: 630, 415, 268, 131
+Plant2
+	bounds: 630, 4, 409, 199
+	offsets: 31, 0, 440, 199
+	rotate: 90
+Road
+	bounds: 1, 810, 627, 458
+Sidewalk
+	bounds: 1, 542, 578, 266
+Sky
+	bounds: 630, 794, 621, 474
+ZZZ
+	bounds: 581, 783, 25, 37
+	rotate: 90

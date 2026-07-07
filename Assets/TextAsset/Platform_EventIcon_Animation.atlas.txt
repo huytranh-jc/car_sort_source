@@ -1,0 +1,53 @@
+Platform_EventIcon_Animation.png
+	size: 352, 352
+	filter: Linear, Linear
+	pma: true
+	scale: 0.8
+L_Eye_Close
+	bounds: 243, 4, 57, 53
+	rotate: 90
+R_Eye_Close
+	bounds: 125, 25, 65, 49
+	offsets: 0, 0, 65, 50
+car
+	bounds: 2, 138, 299, 212
+	offsets: 0, 12, 299, 224
+car-shadow
+	bounds: 2, 105, 119, 31
+	offsets: 1, 1, 120, 37
+eye-botom-L
+	bounds: 2, 7, 68, 14
+eye-botom-R
+	bounds: 196, 63, 61, 13
+eyelash-L
+	bounds: 303, 219, 62, 43
+	offsets: 10, 4, 79, 74
+	rotate: 90
+eyelash-R
+	bounds: 303, 160, 57, 43
+	offsets: 13, 0, 82, 50
+	rotate: 90
+eyelid-L
+	bounds: 125, 76, 69, 60
+eyelid-R
+	bounds: 196, 78, 62, 58
+eyewhite-L
+	bounds: 260, 71, 65, 49
+	offsets: 0, 0, 65, 50
+	rotate: 90
+eyewhite-R
+	bounds: 192, 2, 59, 49
+	rotate: 90
+pupil-
+	bounds: 311, 123, 35, 35
+pupil-R
+	bounds: 311, 86, 35, 35
+wheel-1
+	bounds: 62, 28, 61, 75
+	offsets: 1, 0, 91, 77
+wheel-2
+	bounds: 2, 23, 58, 80
+	offsets: 0, 0, 76, 82
+wheel-3
+	bounds: 303, 283, 43, 67
+	offsets: 2, 0, 45, 67

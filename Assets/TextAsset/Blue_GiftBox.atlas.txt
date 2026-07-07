@@ -1,0 +1,30 @@
+Blue_GiftBox.png
+	size: 732, 732
+	filter: Linear, Linear
+	pma: true
+	scale: 0.3838
+1
+	bounds: 622, 279, 448, 105
+	rotate: 90
+Bottom_shadow
+	bounds: 2, 35, 497, 63
+Glow1
+	bounds: 452, 331, 396, 168
+	rotate: 90
+JS
+	bounds: 2, 12, 21, 90
+	rotate: 90
+NoseMat256
+	bounds: 502, 231, 98, 98
+Red_Box_Base
+	bounds: 2, 440, 448, 287
+	offsets: 0, 12, 448, 299
+Red_Box_Up
+	bounds: 2, 100, 498, 154
+	offsets: 0, 0, 498, 155
+Red_Front_L
+	bounds: 2, 256, 422, 182
+ShineMat
+	bounds: 502, 131, 98, 98
+Smth
+	bounds: 602, 179, 98, 98

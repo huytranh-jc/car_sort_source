@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - HideLayer
+  - NoOutline
+  - TransparentIce
+  - Highlight
+  - Outline
+  - Selectable
+  - Shuffle
+  - Tutorial
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sprites
+    uniqueID: 453775063
+    locked: 0
+  - name: Particle
+    uniqueID: 2211632277
+    locked: 0
+  - name: UI
+    uniqueID: 3973767173
+    locked: 0
+  - name: UIParticle
+    uniqueID: 1380322935
+    locked: 0
+  - name: Tutorial
+    uniqueID: 302413061
+    locked: 0

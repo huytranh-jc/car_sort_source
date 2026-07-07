@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!200 &20000000
+ShaderVariantCollection:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShaderVariants
+  m_Shaders:
+  - first: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: INSTANCING_ON
+        passType: 0
+  - first: {fileID: 211, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: _ALPHATEST_ON _COLORCOLOR_ON _EMISSION
+        passType: 0
+      - keywords: PROCEDURAL_INSTANCING_ON _ALPHATEST_ON
+        passType: 8
+  - first: {fileID: 10720, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 389acbcbe912e9843b115bdb16996ed7, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 455edaa7e7477dc4387f6b4c48548f13, type: 3}
+    second:
+      variants:
+      - keywords: _USE_FAST_SRGB_LINEAR_CONVERSION
+        passType: 0
+  - first: {fileID: 4800000, guid: 6cb08f7ec058db148bafea9fff918b65, type: 3}
+    second:
+      variants:
+      - keywords: INSTANCING_ON
+        passType: 0
+  - first: {fileID: 4800000, guid: 6e49ffde4897fc74cb5785fec964d4f7, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: _GAMMA_20
+        passType: 0
+  - first: {fileID: 4800000, guid: 9c40f15c4938b84478a95e86fff8eaf2, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 995231c5b020e2d4b80d25f861515a4f, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: _RCAS
+        passType: 0
+  - first: {fileID: 4800000, guid: 4d62c857a7703e74390c2af0e5ba5ea7, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 8
+      - keywords: TCP2_REFLECTIONS_FRESNEL TCP2_RIM_LIGHTING_LIGHTMASK TCP2_SHADOW_LIGHT_COLOR TCP2_SPECULAR TCP2_SPECULAR_STYLIZED _ADDITIONAL_LIGHT_SHADOWS _FORWARD_PLUS _LIGHT_LAYERS _MAIN_LIGHT_SHADOWS _REFLECTION_PROBE_BLENDING _REFLECTION_PROBE_BOX_PROJECTION _SHADOWS_SOFT
+        passType: 13
+  - first: {fileID: 4800000, guid: c3887b0c686b9f74da02019b204434df, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 8
+      - keywords: INSTANCING_ON
+        passType: 8
+      - keywords: INSTANCING_ON _MK_ALBEDO_MAP
+        passType: 8
+      - keywords: INSTANCING_ON _MK_ALBEDO_MAP _MK_SURFACE_TYPE_TRANSPARENT
+        passType: 8
+      - keywords: _MK_ALBEDO_MAP
+        passType: 8
+      - keywords: INSTANCING_ON _ADDITIONAL_LIGHT_SHADOWS _FORWARD_PLUS _LIGHT_LAYERS _MAIN_LIGHT_SHADOWS _MK_ALBEDO_MAP _MK_ENVIRONMENT_REFLECTIONS_AMBIENT _MK_LIGHT_CEL _MK_RECEIVE_SHADOWS _REFLECTION_PROBE_BLENDING _REFLECTION_PROBE_BOX_PROJECTION _SHADOWS_SOFT
+        passType: 13
+      - keywords: INSTANCING_ON _ADDITIONAL_LIGHT_SHADOWS _FORWARD_PLUS _LIGHT_LAYERS _MAIN_LIGHT_SHADOWS _MK_ENVIRONMENT_REFLECTIONS_AMBIENT _MK_LIGHT_CEL _MK_RECEIVE_SHADOWS _MK_RIM_DEFAULT _MK_SPECULAR_ISOTROPIC _REFLECTION_PROBE_BLENDING _REFLECTION_PROBE_BOX_PROJECTION _SHADOWS_SOFT
+        passType: 13
+      - keywords: INSTANCING_ON _ADDITIONAL_LIGHT_SHADOWS _FORWARD_PLUS _LIGHT_LAYERS _MAIN_LIGHT_SHADOWS _MK_ENVIRONMENT_REFLECTIONS_AMBIENT _MK_LIGHT_CEL _MK_RECEIVE_SHADOWS _MK_SPECULAR_ISOTROPIC _REFLECTION_PROBE_BLENDING _REFLECTION_PROBE_BOX_PROJECTION _SHADOWS_SOFT
+        passType: 13
+      - keywords: INSTANCING_ON _ADDITIONAL_LIGHT_SHADOWS _FORWARD_PLUS _LIGHT_LAYERS _MAIN_LIGHT_SHADOWS _MK_ENVIRONMENT_REFLECTIONS_AMBIENT _MK_LIGHT_CEL _MK_RIM_DEFAULT _MK_SPECULAR_ISOTROPIC _REFLECTION_PROBE_BLENDING _REFLECTION_PROBE_BOX_PROJECTION _SHADOWS_SOFT
+        passType: 13
+      - keywords: _ADDITIONAL_LIGHT_SHADOWS _FORWARD_PLUS _LIGHT_LAYERS _MAIN_LIGHT_SHADOWS _MK_ALBEDO_MAP _MK_ENVIRONMENT_REFLECTIONS_AMBIENT _MK_LIGHT_CEL _MK_RECEIVE_SHADOWS _MK_SPECULAR_ISOTROPIC _REFLECTION_PROBE_BLENDING _REFLECTION_PROBE_BOX_PROJECTION _SHADOWS_SOFT
+        passType: 13
+      - keywords: _ADDITIONAL_LIGHT_SHADOWS _FORWARD_PLUS _LIGHT_LAYERS _MAIN_LIGHT_SHADOWS _MK_ENVIRONMENT_REFLECTIONS_AMBIENT _MK_LIGHT_CEL _MK_RECEIVE_SHADOWS _MK_RIM_DEFAULT _MK_SPECULAR_ISOTROPIC _REFLECTION_PROBE_BLENDING _REFLECTION_PROBE_BOX_PROJECTION _SHADOWS_SOFT
+        passType: 13
+      - keywords: _ADDITIONAL_LIGHT_SHADOWS _FORWARD_PLUS _LIGHT_LAYERS _MAIN_LIGHT_SHADOWS _MK_ENVIRONMENT_REFLECTIONS_AMBIENT _MK_LIGHT_CEL _MK_RECEIVE_SHADOWS _MK_SPECULAR_ISOTROPIC _REFLECTION_PROBE_BLENDING _REFLECTION_PROBE_BOX_PROJECTION _SHADOWS_SOFT
+        passType: 13
+      - keywords: _ADDITIONAL_LIGHT_SHADOWS _FORWARD_PLUS _LIGHT_LAYERS _MAIN_LIGHT_SHADOWS _MK_ENVIRONMENT_REFLECTIONS_AMBIENT _MK_LIGHT_CEL _MK_RECEIVE_SHADOWS _REFLECTION_PROBE_BLENDING _REFLECTION_PROBE_BOX_PROJECTION _SHADOWS_SOFT
+        passType: 13
+  - first: {fileID: 4800000, guid: 909b60ff33fb97b47bccf434157977b6, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 54af0b7e0a28ec44d89b7d3f9c1c685f, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 202d7d953be823c4580793fd55f82021, type: 3}
+    second:
+      variants:
+      - keywords: UNDERLAY_ON
+        passType: 0
+  - first: {fileID: 4800000, guid: 4c8e7630106cf834ca78a0c73900277f, type: 3}
+    second:
+      variants:
+      - keywords: UNDERLAY_ON
+        passType: 0
+  - first: {fileID: 4800000, guid: 73f0745fcca57b749b58a7798763ba07, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0

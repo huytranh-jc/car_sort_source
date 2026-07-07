@@ -1,0 +1,59 @@
+Platform_Animation.png
+	size: 476, 476
+	filter: Linear, Linear
+	pma: true
+	scale: 0.8
+L_Eye_Close
+	bounds: 365, 70, 57, 53
+R_Eye_Close
+	bounds: 425, 122, 65, 49
+	offsets: 0, 0, 65, 50
+	rotate: 90
+car
+	bounds: 2, 85, 299, 212
+	offsets: 0, 12, 299, 224
+car-shadow
+	bounds: 303, 266, 119, 31
+	offsets: 1, 1, 120, 37
+eye-botom-L
+	bounds: 455, 406, 68, 14
+	rotate: 90
+eye-botom-R
+	bounds: 455, 343, 61, 13
+	rotate: 90
+eyelash-L
+	bounds: 71, 2, 62, 43
+	offsets: 10, 4, 79, 74
+eyelash-R
+	bounds: 135, 2, 57, 43
+	offsets: 13, 0, 82, 50
+eyelid-L
+	bounds: 303, 113, 69, 60
+	rotate: 90
+eyelid-R
+	bounds: 365, 125, 62, 58
+	rotate: 90
+eyewhite-L
+	bounds: 204, 34, 65, 49
+	offsets: 0, 0, 65, 50
+eyewhite-R
+	bounds: 303, 62, 59, 49
+glg
+	bounds: 2, 47, 200, 36
+platform-up
+	bounds: 2, 299, 451, 175
+	offsets: 0, 10, 451, 185
+pupil-
+	bounds: 424, 85, 35, 35
+pupil-R
+	bounds: 424, 48, 35, 35
+wheel-1
+	bounds: 363, 189, 61, 75
+	offsets: 1, 0, 91, 77
+wheel-2
+	bounds: 303, 184, 58, 80
+	offsets: 0, 0, 76, 82
+wheel-3
+	bounds: 2, 2, 43, 67
+	offsets: 2, 0, 45, 67
+	rotate: 90

@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34bcddf99f11fffe9a4880c60672795c, type: 3}
+  m_Name: GiftAssetCatalog
+  m_EditorClassIdentifier:
+  chests:
+  - info: {fileID: 11400000, guid: 6a675f9104c5a6c4c8bdd8d7a16f14d7, type: 2}
+    skeletonDataAsset: {fileID: 11400000, guid: ff5b2af54e052574d86d9d747a4b1e68, type: 2}
+    openIdleKey: Open_Idle
+    midOpenKey: MidOpen
+    appearKey: Appear
+    barIdleKey:
+  - info: {fileID: 11400000, guid: 8def89ef0b9de594e93ffbb5518e68c1, type: 2}
+    skeletonDataAsset: {fileID: 11400000, guid: e094cadcdbc61444bbfc2a44b905f734, type: 2}
+    openIdleKey: Open_Idle
+    midOpenKey: MidOpen
+    appearKey: Appear
+    barIdleKey:
+  - info: {fileID: 11400000, guid: d7d3a11b45b415942bb69d2ac78200c8, type: 2}
+    skeletonDataAsset: {fileID: 11400000, guid: d8a10ab0b7051de42ba293767b042cb5, type: 2}
+    openIdleKey: Open_Idle
+    midOpenKey: MidOpen
+    appearKey: Appear
+    barIdleKey:
+  - info: {fileID: 11400000, guid: bfd41e8e97236ae4f85d70d6ed24299f, type: 2}
+    skeletonDataAsset: {fileID: 11400000, guid: ff5b2af54e052574d86d9d747a4b1e68, type: 2}
+    openIdleKey: Open_Idle
+    midOpenKey: MidOpen
+    appearKey: Appear
+    barIdleKey:
+  - info: {fileID: 11400000, guid: 3d272ec1323a6d24ba14191029577710, type: 2}
+    skeletonDataAsset: {fileID: 11400000, guid: 26c51aab4772d3540a93915071ceeade, type: 2}
+    openIdleKey: Open_Idle
+    midOpenKey:
+    appearKey: Appear
+    barIdleKey:
+  - info: {fileID: 11400000, guid: 46f734363b7d80e48b6418c875590767, type: 2}
+    skeletonDataAsset: {fileID: 11400000, guid: 93df684749c6dc342aef1b111ebaab4e, type: 2}
+    openIdleKey: Open_Idle
+    midOpenKey:
+    appearKey: Appear
+    barIdleKey:
+  - info: {fileID: 11400000, guid: 24b162165314b2b4bbf73138f24b4972, type: 2}
+    skeletonDataAsset: {fileID: 11400000, guid: 2aaaf84054c7c014180be42e73a5296d, type: 2}
+    openIdleKey: Open_Idle
+    midOpenKey:
+    appearKey: Appear
+    barIdleKey:
+  - info: {fileID: 11400000, guid: a3b454e6bcf3df94cba5158832cfb567, type: 2}
+    skeletonDataAsset: {fileID: 11400000, guid: 794dca05048524f478c1311b3e8c76ad, type: 2}
+    openIdleKey: Open_Idle
+    midOpenKey:
+    appearKey: Appear
+    barIdleKey:
+  boxes:
+  - info: {fileID: 11400000, guid: 579e7383761a70544afbf0b37d622e86, type: 2}
+    skeletonDataAsset: {fileID: 11400000, guid: c4d09df7a74839d4b91932ae7852ad8c, type: 2}
+    openIdleKey: Open_Idle
+    midOpenKey:
+    appearKey: Appear
+    barIdleKey: Bar_Icon
+  - info: {fileID: 11400000, guid: 104b3504b75322640aa7a37acf1bff5d, type: 2}
+    skeletonDataAsset: {fileID: 11400000, guid: c4d09df7a74839d4b91932ae7852ad8c, type: 2}
+    openIdleKey: Open_Idle
+    midOpenKey:
+    appearKey: Appear
+    barIdleKey: Bar_Icon
+  - info: {fileID: 11400000, guid: 10cb30b28a6feef4a8c9446db5e3086a, type: 2}
+    skeletonDataAsset: {fileID: 11400000, guid: 55c1a5ac0270d1e479aca72baaa37515, type: 2}
+    openIdleKey: Open_Idle
+    midOpenKey:
+    appearKey: Appear
+    barIdleKey: Bar_Icon
+  - info: {fileID: 11400000, guid: acda30a08c814e9439c4374d77aa1ea2, type: 2}
+    skeletonDataAsset: {fileID: 11400000, guid: 366a95e882363a843bf86fd2ceedbb26, type: 2}
+    openIdleKey: Open_Idle
+    midOpenKey:
+    appearKey: Appear
+    barIdleKey: Bar_Icon
+  - info: {fileID: 11400000, guid: 1322d1da802a688469db4d723e58a34f, type: 2}
+    skeletonDataAsset: {fileID: 11400000, guid: d8e860bc98b70ad44a1f885664d03c22, type: 2}
+    openIdleKey: Open_Idle
+    midOpenKey:
+    appearKey: Appear
+    barIdleKey: Bar_Icon

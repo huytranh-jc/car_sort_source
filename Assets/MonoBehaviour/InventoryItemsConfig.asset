@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c837d45136494f6d5d58587366647c2f, type: 3}
+  m_Name: InventoryItemsConfig
+  m_EditorClassIdentifier:
+  items:
+  - initialItem:
+      itemType: 0
+      itemConsumeType: 0
+      amount: 480
+      customDetails: {fileID: 0}
+    maxAmount: 100000
+    unlockLevel: 0
+  - initialItem:
+      itemType: 1
+      itemConsumeType: 0
+      amount: 5
+      customDetails: {fileID: 0}
+    maxAmount: 5
+    unlockLevel: 0
+  - initialItem:
+      itemType: 2
+      itemConsumeType: 0
+      amount: 2
+      customDetails: {fileID: 0}
+    maxAmount: 10000
+    unlockLevel: 12
+  - initialItem:
+      itemType: 3
+      itemConsumeType: 0
+      amount: 2
+      customDetails: {fileID: 0}
+    maxAmount: 10000
+    unlockLevel: 15
+  - initialItem:
+      itemType: 4
+      itemConsumeType: 0
+      amount: 2
+      customDetails: {fileID: 0}
+    maxAmount: 10000
+    unlockLevel: 9
+  - initialItem:
+      itemType: 5
+      itemConsumeType: 0
+      amount: 3
+      customDetails: {fileID: 0}
+    maxAmount: 10000
+    unlockLevel: -1
+  - initialItem:
+      itemType: 6
+      itemConsumeType: 0
+      amount: 2
+      customDetails: {fileID: 0}
+    maxAmount: 10000
+    unlockLevel: 18
+  - initialItem:
+      itemType: 8
+      itemConsumeType: 0
+      amount: 0
+      customDetails: {fileID: 0}
+    maxAmount: 0
+    unlockLevel: 0

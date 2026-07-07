@@ -1,0 +1,28 @@
+Red_GiftBox.png
+	size: 732, 732
+	filter: Linear, Linear
+	pma: true
+	scale: 0.3833
+1
+	bounds: 622, 279, 448, 105
+	rotate: 90
+Bottom_shadow
+	bounds: 2, 37, 496, 63
+Glow1
+	bounds: 452, 331, 396, 168
+	rotate: 90
+JS
+	bounds: 2, 14, 21, 90
+	rotate: 90
+NoseMat256
+	bounds: 501, 231, 98, 98
+Red_Box_Base
+	bounds: 2, 442, 448, 285
+Red_Box_Up
+	bounds: 2, 102, 497, 154
+Red_Front_L
+	bounds: 2, 258, 421, 182
+ShineMat
+	bounds: 501, 131, 98, 98
+Smth
+	bounds: 601, 179, 98, 98

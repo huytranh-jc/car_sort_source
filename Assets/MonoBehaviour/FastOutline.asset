@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 948024621, guid: 34b1cf0ff6550d78f9c1dd5603d48d82, type: 3}
+  m_Name: FastOutline
+  m_EditorClassIdentifier:
+  m_Active: 1
+  settings: {fileID: 11400000, guid: ae295bfae5332fa4e88a00e05d719338, type: 2}
+  shaders:
+    mask: {fileID: 4800000, guid: aa30e2a9051f6d6428d02466369884f0, type: 3}
+    outline: {fileID: 4800000, guid: d93abc8e0015eca4085a915359b7d6a7, type: 3}
+    outlineInstanced: {fileID: 4800000, guid: 89fcb53b2db93f249a352f00e1f7fc80, type: 3}
+    clear: {fileID: 4800000, guid: 1d55836e6ee3581479a0be6eb857994f, type: 3}

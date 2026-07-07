@@ -1,0 +1,245 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d85dcc08c0ee55d0917bb3442f91a898, type: 3}
+  m_Name: SO_ColorCatalog
+  m_EditorClassIdentifier:
+  colorDataList:
+  - colorType: 1
+    material: {fileID: 2100000, guid: 52a140a7f13e3644e9074118ed826e20, type: 2}
+    starredMaterials:
+    - {fileID: 2100000, guid: 8cf3bc27160ec9e4cb1e596e90d51155, type: 2}
+    - {fileID: 2100000, guid: 49d111971d0774c4682c69d533c95e65, type: 2}
+    legoHolderMaterial: {fileID: 2100000, guid: 8985bad8106bf01478abcbacd1f42484, type: 2}
+    legoHolderMaterial2: {fileID: 2100000, guid: b86b08894941e014c9151017586da234, type: 2}
+    vfxColor: {r: 0.003921569, g: 0.54901963, b: 0.9529412, a: 1}
+    icons:
+    - skinType: 0
+      icon: {fileID: 21300000, guid: 517cf85d62eef114bb3082126db661ef, type: 2}
+    - skinType: 1
+      icon: {fileID: 21300000, guid: 517cf85d62eef114bb3082126db661ef, type: 2}
+    stateMaterials: []
+  - colorType: 2
+    material: {fileID: 2100000, guid: 5e44421e7646f604f8d6a8a3cb5d0b27, type: 2}
+    starredMaterials:
+    - {fileID: 2100000, guid: 5afd7c71b20c0c84bb5d3be1206ac6c1, type: 2}
+    - {fileID: 2100000, guid: b302d89f6351a0d4abfa7a2461e6ef60, type: 2}
+    legoHolderMaterial: {fileID: 2100000, guid: 2e0457764a07def4caafb082ab5e2ec3, type: 2}
+    legoHolderMaterial2: {fileID: 2100000, guid: 0f00d8ec01f88d945ab8edf5183b023d, type: 2}
+    vfxColor: {r: 0.654902, g: 0.42352942, b: 0.16862746, a: 1}
+    icons:
+    - skinType: 0
+      icon: {fileID: 21300000, guid: 61c6c6171a338bb4eaef2b1053c6f314, type: 2}
+    - skinType: 1
+      icon: {fileID: 21300000, guid: 61c6c6171a338bb4eaef2b1053c6f314, type: 2}
+    stateMaterials: []
+  - colorType: 18
+    material: {fileID: 2100000, guid: 7b28db0a897052a4aa338ddda8713cd2, type: 2}
+    starredMaterials:
+    - {fileID: 2100000, guid: a3a628f2d473b8744a7ed8f3e4d2cc9a, type: 2}
+    - {fileID: 2100000, guid: 406c1533541af3449a0bd66964059ca9, type: 2}
+    legoHolderMaterial: {fileID: 2100000, guid: bf144329cd198264d86f1f72bf541a6b, type: 2}
+    legoHolderMaterial2: {fileID: 2100000, guid: f23f2d08c19724c4a9fce5da7dc906e9, type: 2}
+    vfxColor: {r: 0.92156863, g: 0.68235296, b: 0.91764706, a: 1}
+    icons:
+    - skinType: 0
+      icon: {fileID: 21300000, guid: f0d0568a7b92ed0488c903698e6c039f, type: 2}
+    - skinType: 1
+      icon: {fileID: 21300000, guid: f0d0568a7b92ed0488c903698e6c039f, type: 2}
+    stateMaterials: []
+  - colorType: 15
+    material: {fileID: 2100000, guid: ad327c698c856994690cdd7792f5042d, type: 2}
+    starredMaterials:
+    - {fileID: 2100000, guid: db905d9ff61374647a59a635f6977e04, type: 2}
+    - {fileID: 2100000, guid: 66462cbd5ffb3d14788d32b690b5288e, type: 2}
+    legoHolderMaterial: {fileID: 2100000, guid: 4702880eaffae5d4ea23a424caa610ed, type: 2}
+    legoHolderMaterial2: {fileID: 2100000, guid: 119ac67efd1d82e46b14dc74e6ed279e, type: 2}
+    vfxColor: {r: 0.63529414, g: 0.05882353, b: 0.20392157, a: 1}
+    icons:
+    - skinType: 0
+      icon: {fileID: 21300000, guid: 3ebe9a4c24ecdf74d81f08947f0d7a88, type: 2}
+    - skinType: 1
+      icon: {fileID: 21300000, guid: 3ebe9a4c24ecdf74d81f08947f0d7a88, type: 2}
+    stateMaterials:
+    - stateType: 10
+      material: {fileID: 2100000, guid: b6cbfdf8dbb942842ad6d88480ba2594, type: 2}
+  - colorType: 16
+    material: {fileID: 2100000, guid: d2db9d4ba0c10a745b302b2e6874a696, type: 2}
+    starredMaterials:
+    - {fileID: 2100000, guid: 028d94f5c17f6ed47a3b97c20eb88f95, type: 2}
+    - {fileID: 2100000, guid: 8a50920b0d57a9d4f8e4ff07e1c50f51, type: 2}
+    legoHolderMaterial: {fileID: 2100000, guid: 8d66a84122c7f0f4da88f5f97621fb45, type: 2}
+    legoHolderMaterial2: {fileID: 2100000, guid: 1d56a1f37145be8469f128aafbcfc27b, type: 2}
+    vfxColor: {r: 0.91764706, g: 0.78431374, b: 0.5294118, a: 1}
+    icons:
+    - skinType: 0
+      icon: {fileID: 21300000, guid: 93bc87290d7cf5e4fa46b32077e1e9be, type: 2}
+    - skinType: 1
+      icon: {fileID: 21300000, guid: 93bc87290d7cf5e4fa46b32077e1e9be, type: 2}
+    stateMaterials: []
+  - colorType: 3
+    material: {fileID: 2100000, guid: b48c5ceb33e818641a6b5bcf6939d648, type: 2}
+    starredMaterials:
+    - {fileID: 2100000, guid: 038b235409527d348a3f6a8b6ef88199, type: 2}
+    - {fileID: 2100000, guid: ab1e0f6a96e788348bc190e21794effa, type: 2}
+    legoHolderMaterial: {fileID: 2100000, guid: 8b5254ae143b6de4b90679a472f50f9c, type: 2}
+    legoHolderMaterial2: {fileID: 2100000, guid: bc312d43c54f3514790d29be13267351, type: 2}
+    vfxColor: {r: 0, g: 0.8039216, b: 0.92941177, a: 1}
+    icons:
+    - skinType: 0
+      icon: {fileID: 21300000, guid: 56c6207eac735204e83c920ac472c487, type: 2}
+    - skinType: 1
+      icon: {fileID: 21300000, guid: 56c6207eac735204e83c920ac472c487, type: 2}
+    stateMaterials: []
+  - colorType: 5
+    material: {fileID: 2100000, guid: 0760e2904c0309c45a1f81585b59cc53, type: 2}
+    starredMaterials:
+    - {fileID: 2100000, guid: 567728bce425f834fb5b4fb0a2a9c8ee, type: 2}
+    - {fileID: 2100000, guid: bdfc1017f667ba64ca513cad2e96abee, type: 2}
+    legoHolderMaterial: {fileID: 2100000, guid: d62cb918af120b744b2102fb5f775d61, type: 2}
+    legoHolderMaterial2: {fileID: 2100000, guid: 9420245b458295447ae61e512f552171, type: 2}
+    vfxColor: {r: 0.023529412, g: 0.4509804, b: 0.21568628, a: 1}
+    icons:
+    - skinType: 0
+      icon: {fileID: 21300000, guid: 385093e5bbbe14d49b59a702f6e6e234, type: 2}
+    - skinType: 1
+      icon: {fileID: 21300000, guid: 385093e5bbbe14d49b59a702f6e6e234, type: 2}
+    stateMaterials: []
+  - colorType: 4
+    material: {fileID: 2100000, guid: 2c3105d4f53a3444da3d009981ae65cc, type: 2}
+    starredMaterials:
+    - {fileID: 2100000, guid: 21794e1878a58384eaa11bb7ab110a5d, type: 2}
+    - {fileID: 2100000, guid: 86a7d593c37e313469842c72bf7d5d68, type: 2}
+    legoHolderMaterial: {fileID: 2100000, guid: e6c86f7f921763442a5e2a884d8b44e9, type: 2}
+    legoHolderMaterial2: {fileID: 2100000, guid: 775b484e8a55230469ce33a8eb65aea7, type: 2}
+    vfxColor: {r: 0.124858566, g: 0.8301887, b: 0.035243843, a: 1}
+    icons:
+    - skinType: 0
+      icon: {fileID: 21300000, guid: b84d04bd02c3f7144a54e3c0cbdc3161, type: 2}
+    - skinType: 1
+      icon: {fileID: 21300000, guid: b84d04bd02c3f7144a54e3c0cbdc3161, type: 2}
+    stateMaterials:
+    - stateType: 10
+      material: {fileID: 2100000, guid: 15f5d06d2349b2749bb96290c4da0724, type: 2}
+  - colorType: 13
+    material: {fileID: 2100000, guid: 3dbde7f1269e54e42a1a03a4bf9c0539, type: 2}
+    starredMaterials:
+    - {fileID: 2100000, guid: 3dfaaff2ba1d5854fa3a96644a75f657, type: 2}
+    - {fileID: 2100000, guid: ea61bea17fd23f04a9262badc47711f9, type: 2}
+    legoHolderMaterial: {fileID: 2100000, guid: 77f95bbd5098d694db795a6af6b4565d, type: 2}
+    legoHolderMaterial2: {fileID: 2100000, guid: e079d783a8c527c4b97e014eb9eee8c4, type: 2}
+    vfxColor: {r: 0.6392157, g: 0.6666667, b: 0.93333334, a: 1}
+    icons:
+    - skinType: 0
+      icon: {fileID: 21300000, guid: e87a6a8d4bdeb6c4ba4e67a6945171b8, type: 2}
+    - skinType: 1
+      icon: {fileID: 21300000, guid: e87a6a8d4bdeb6c4ba4e67a6945171b8, type: 2}
+    stateMaterials: []
+  - colorType: 7
+    material: {fileID: 2100000, guid: 37d9e53f2a684b2428e545d24cbd3c41, type: 2}
+    starredMaterials:
+    - {fileID: 2100000, guid: 640772dffd717274590e733990bb0af2, type: 2}
+    - {fileID: 2100000, guid: cf091536c4266fc42a7031dc743a8b0d, type: 2}
+    legoHolderMaterial: {fileID: 2100000, guid: 046bd3064013d294487c029d6ec1e31b, type: 2}
+    legoHolderMaterial2: {fileID: 2100000, guid: 2001264ab1684de498f91a03fa3139f5, type: 2}
+    vfxColor: {r: 0.9490196, g: 0.4745098, b: 0, a: 1}
+    icons:
+    - skinType: 0
+      icon: {fileID: 21300000, guid: d82e76a6df550b64e8c95157775da122, type: 2}
+    - skinType: 1
+      icon: {fileID: 21300000, guid: d82e76a6df550b64e8c95157775da122, type: 2}
+    stateMaterials: []
+  - colorType: 8
+    material: {fileID: 2100000, guid: 1635c884a9e3e6e428420c657e4fcb7b, type: 2}
+    starredMaterials:
+    - {fileID: 2100000, guid: 476e392223503404ea97c7184ed76c58, type: 2}
+    - {fileID: 2100000, guid: 387b7abd7bfc9d94f89ad6b1689f3b8f, type: 2}
+    legoHolderMaterial: {fileID: 2100000, guid: d0ee2aadd9736fd40a94ce95a63d9870, type: 2}
+    legoHolderMaterial2: {fileID: 2100000, guid: 5ae46d64bd4dd4b4d908675bdabf7dbd, type: 2}
+    vfxColor: {r: 0.92156863, g: 0.37231377, b: 0.71903086, a: 1}
+    icons:
+    - skinType: 0
+      icon: {fileID: 21300000, guid: c817958c32562e749a5ae2c6e879eec5, type: 2}
+    - skinType: 1
+      icon: {fileID: 21300000, guid: c817958c32562e749a5ae2c6e879eec5, type: 2}
+    stateMaterials: []
+  - colorType: 9
+    material: {fileID: 2100000, guid: 34440ac0008f90247896d169eec44e19, type: 2}
+    starredMaterials:
+    - {fileID: 2100000, guid: 6e97152a24fba7c4db0aedb685929806, type: 2}
+    - {fileID: 2100000, guid: f6e526b97dda1ea46aff362081322196, type: 2}
+    legoHolderMaterial: {fileID: 2100000, guid: 7bdef9fd2dbb01347a06d5931cd93b37, type: 2}
+    legoHolderMaterial2: {fileID: 2100000, guid: 431fceaf0e6c62247be61b2604c3966c, type: 2}
+    vfxColor: {r: 0.4814483, g: 0.26999998, b: 1, a: 1}
+    icons:
+    - skinType: 0
+      icon: {fileID: 21300000, guid: e4e8ad26137fbc945845915c4d1a5997, type: 2}
+    - skinType: 1
+      icon: {fileID: 21300000, guid: e4e8ad26137fbc945845915c4d1a5997, type: 2}
+    stateMaterials: []
+  - colorType: 10
+    material: {fileID: 2100000, guid: 0396f54cb31752a4fa4e389aaa6cb106, type: 2}
+    starredMaterials:
+    - {fileID: 2100000, guid: 8fa017a5ff02e5543ab4c4eef5a05943, type: 2}
+    - {fileID: 2100000, guid: 3114228a635f4fa4f88edddc2fb62e68, type: 2}
+    legoHolderMaterial: {fileID: 2100000, guid: 51c9b947c5f1c414fa976c0f9f6bd3fd, type: 2}
+    legoHolderMaterial2: {fileID: 2100000, guid: 1e6955db7dcb63840b51f089a6d2b779, type: 2}
+    vfxColor: {r: 0.72300005, g: 0.01347205, b: 0, a: 1}
+    icons:
+    - skinType: 0
+      icon: {fileID: 21300000, guid: b2cc38ef428a6f8439776b83c2e58c61, type: 2}
+    - skinType: 1
+      icon: {fileID: 21300000, guid: b2cc38ef428a6f8439776b83c2e58c61, type: 2}
+    stateMaterials: []
+  - colorType: 12
+    material: {fileID: 2100000, guid: d67335575444f104d913e4c17a323dd0, type: 2}
+    starredMaterials:
+    - {fileID: 2100000, guid: 755d35f3c6a2eda4896a440bf330a091, type: 2}
+    - {fileID: 2100000, guid: 0968373110f277e409bf98c5d8dc8643, type: 2}
+    legoHolderMaterial: {fileID: 2100000, guid: a896f9e70198b5a48873ce2f244f3571, type: 2}
+    legoHolderMaterial2: {fileID: 2100000, guid: 1bf2c2996b5a8794298dae65d7db7a37, type: 2}
+    vfxColor: {r: 1, g: 1, b: 1, a: 1}
+    icons:
+    - skinType: 0
+      icon: {fileID: 21300000, guid: afd3479fd6f43b349bf61408dde3fa75, type: 2}
+    - skinType: 1
+      icon: {fileID: 21300000, guid: afd3479fd6f43b349bf61408dde3fa75, type: 2}
+    stateMaterials: []
+  - colorType: 14
+    material: {fileID: 2100000, guid: c98f0235501529541bed3b6e8fa3aa54, type: 2}
+    starredMaterials:
+    - {fileID: 2100000, guid: adae7d55f0f80794c9600be2ade23cb2, type: 2}
+    - {fileID: 2100000, guid: e9b8aa723d87a274cb2e7a4cd79fb58c, type: 2}
+    legoHolderMaterial: {fileID: 2100000, guid: d34716089e4a8ba44b24c126a01c3e92, type: 2}
+    legoHolderMaterial2: {fileID: 2100000, guid: 118bff200a60f9f43b2e8eabecc182fa, type: 2}
+    vfxColor: {r: 0.91764706, g: 0.827451, b: 0, a: 1}
+    icons:
+    - skinType: 0
+      icon: {fileID: 21300000, guid: f49de8505fe774646a9fa16d2ed33378, type: 2}
+    - skinType: 1
+      icon: {fileID: 21300000, guid: f49de8505fe774646a9fa16d2ed33378, type: 2}
+    stateMaterials: []
+  - colorType: 17
+    material: {fileID: 2100000, guid: 4d5fac33fac99d140824b4b92afed2c8, type: 2}
+    starredMaterials:
+    - {fileID: 2100000, guid: 9b52085bbe8b2684295b9349b4c70225, type: 2}
+    - {fileID: 2100000, guid: 20acae2dc36458846967d78d59da38a3, type: 2}
+    legoHolderMaterial: {fileID: 2100000, guid: aee69b0402eff9145b48cd2100096455, type: 2}
+    legoHolderMaterial2: {fileID: 2100000, guid: 10fb9af7a0477da4baf1ab9811757cf3, type: 2}
+    vfxColor: {r: 0.078431375, g: 0.039215688, b: 0.59607846, a: 1}
+    icons:
+    - skinType: 0
+      icon: {fileID: 21300000, guid: 9ed2c90a6ddd3a747bdb1de76eb62243, type: 2}
+    - skinType: 1
+      icon: {fileID: 21300000, guid: 9ed2c90a6ddd3a747bdb1de76eb62243, type: 2}
+    stateMaterials:
+    - stateType: 10
+      material: {fileID: 2100000, guid: 5b684a29607cec145ac3fcc9e246cf7f, type: 2}

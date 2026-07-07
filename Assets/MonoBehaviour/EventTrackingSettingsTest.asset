@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28fb2dddae7fe9690bf798e50424f1e9, type: 3}
+  m_Name: EventTrackingSettingsTest
+  m_EditorClassIdentifier:
+  version: 1.0
+  endPointUrl: http://k8s-eventque-eventque-b92fe7708d-294015205.eu-central-1.elb.amazonaws.com/applications/665b80c5-f9dd-4a12-aaab-60570bb69f57/events/
+  token: Rx6GacdjgVr6q0QDSZuoPILizfQQ8AJjtrVGwRi7cfx3LZKooIN2N4TKq0GPefWBAtYa0+7FcGzki+eWE25Kpw==
+  webRequestTimeOut: 25
+  maxNumberOfLogsToStore: 10
+  maxNumberOfCacheFiles: 200
+  excludedEvents:

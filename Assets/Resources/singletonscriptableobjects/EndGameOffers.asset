@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a641cc4e826c5c6a583efccc070878b6, type: 3}
+  m_Name: EndGameOffers
+  m_EditorClassIdentifier:
+  backupOffers:
+  - tryCount: 1
+    offerConditions:
+    - itemType: 0
+      count: 4
+      limit: 0
+    prices: 84030000
+  - tryCount: 2
+    offerConditions:
+    - itemType: 0
+      count: 2
+      limit: 0
+    - itemType: 1
+      count: 2
+      limit: 0
+    prices: 6c070000
+  - tryCount: 3
+    offerConditions:
+    - itemType: 0
+      count: 2
+      limit: 0
+    - itemType: 1
+      count: 2
+      limit: 0
+    prices: 540b0000
+  - tryCount: 4
+    offerConditions:
+    - itemType: 1
+      count: 2
+      limit: 0
+    prices: 3c0f0000
+  - tryCount: 5
+    offerConditions:
+    - itemType: 1
+      count: 2
+      limit: 0
+    prices: 24130000

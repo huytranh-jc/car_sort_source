@@ -1,0 +1,60 @@
+{
+  "networks": {
+    "BidMachine": {
+      "android": "3.5.1.0",
+      "ios": "3.5.1.0.0"
+    },
+    "ByteDance": {
+      "android": "7.8.5.8.0",
+      "ios": "7.8.5.7.0"
+    },
+    "Chartboost": {
+      "android": "9.11.0.0",
+      "ios": "9.11.0.0"
+    },
+    "Facebook": {
+      "android": "6.20.0.0",
+      "ios": "6.21.0.0"
+    },
+    "Fyber": {
+      "android": "8.4.2.0",
+      "ios": "8.4.2.0"
+    },
+    "Google": {
+      "android": "24.9.0.0",
+      "ios": "12.14.0.0"
+    },
+    "GoogleAdManager": {
+      "android": "24.9.0.0",
+      "ios": "12.14.0.0"
+    },
+    "InMobi": {
+      "android": "11.1.0.0",
+      "ios": "11.1.0.0"
+    },
+    "IronSource": {
+      "android": "9.2.0.0.0",
+      "ios": "9.2.0.0.0"
+    },
+    "Mintegral": {
+      "android": "17.0.61.0",
+      "ios": "8.0.5.0.0"
+    },
+    "MobileFuse": {
+      "android": "1.10.0.0",
+      "ios": "1.10.0.0"
+    },
+    "Moloco": {
+      "android": "4.4.0.0",
+      "ios": "4.2.0.0"
+    },
+    "UnityAds": {
+      "android": "4.16.6.0",
+      "ios": "4.16.6.0"
+    },
+    "Vungle": {
+      "android": "7.6.3.0",
+      "ios": "7.6.3.1"
+    }
+  }
+}
